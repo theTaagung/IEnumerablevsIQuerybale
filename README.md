@@ -1,1 +1,1 @@
-# IEnumerablevsIQuerybale
+# IEnumerable vs IQueryable
