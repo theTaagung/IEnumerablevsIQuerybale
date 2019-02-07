@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="StudyModelStoreContainer" CdmEntityContainer="StudyEntities">
+    <EntitySetMapping Name="PROJECT_TEAM">
+      <EntityTypeMapping TypeName="StudyModel.PROJECT_TEAM">
+        <MappingFragment StoreEntitySet="PROJECT_TEAM">
+          <ScalarProperty Name="PRJ_ID" ColumnName="PRJ_ID" />
+          <ScalarProperty Name="FRST_NM" ColumnName="FRST_NM" />
+          <ScalarProperty Name="LAST_NM" ColumnName="LAST_NM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

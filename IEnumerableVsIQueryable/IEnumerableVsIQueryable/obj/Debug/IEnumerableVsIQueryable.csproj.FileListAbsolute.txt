@@ -1,0 +1,12 @@
+D:\Practices\IEnumerableVsIQueryable\IEnumerableVsIQueryable\bin\Debug\IEnumerableVsIQueryable.exe.config
+D:\Practices\IEnumerableVsIQueryable\IEnumerableVsIQueryable\bin\Debug\IEnumerableVsIQueryable.exe
+D:\Practices\IEnumerableVsIQueryable\IEnumerableVsIQueryable\bin\Debug\IEnumerableVsIQueryable.pdb
+D:\Practices\IEnumerableVsIQueryable\IEnumerableVsIQueryable\bin\Debug\EntityFramework.dll
+D:\Practices\IEnumerableVsIQueryable\IEnumerableVsIQueryable\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practices\IEnumerableVsIQueryable\IEnumerableVsIQueryable\bin\Debug\EntityFramework.xml
+D:\Practices\IEnumerableVsIQueryable\IEnumerableVsIQueryable\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practices\IEnumerableVsIQueryable\IEnumerableVsIQueryable\obj\Debug\IEnumerableVsIQueryable.csprojAssemblyReference.cache
+D:\Practices\IEnumerableVsIQueryable\IEnumerableVsIQueryable\obj\Debug\IEnumerableVsIQueryable.csproj.CoreCompileInputs.cache
+D:\Practices\IEnumerableVsIQueryable\IEnumerableVsIQueryable\obj\Debug\IEnumerableVsIQueryable.csproj.CopyComplete
+D:\Practices\IEnumerableVsIQueryable\IEnumerableVsIQueryable\obj\Debug\IEnumerableVsIQueryable.exe
+D:\Practices\IEnumerableVsIQueryable\IEnumerableVsIQueryable\obj\Debug\IEnumerableVsIQueryable.pdb
